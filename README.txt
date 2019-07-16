@@ -15,5 +15,5 @@ ground_truth.txt에 포함된 phoneme seq의 각 phoneme이
 Keyword : forced alignment, DTW, Lyric alignment
 paper : https://arxiv.org/abs/1902.06797
 
-혹시 궁금한 점은 01064956991 또는 406호에서 물어봐주세요!
+혹시 궁금한 점은  또는 에서 물어봐주세요!
 생각을 도와주셔서 감사합니다 :)
